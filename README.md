@@ -7,13 +7,6 @@ Cyber Security Enthusiast & Junior Penetration Tester & VAPT from Bangladesh
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdzihadzidan-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdzihadzidan-cloud&theme=onedark&row=1&column=6" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **Cyber Security**
 
 - 🌱 I’m currently learning **Cyber Security**
