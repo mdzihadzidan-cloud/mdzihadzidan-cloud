@@ -1,16 +1,35 @@
-# Hi there 👋
+# Hi 👋, I'm MD Zihad 
+### 🛡️ An Aspiring Cyber Security Professional & Penetration Tester
 
+- 🔭 I’m currently working on developing my skills in Network Security.
+- 🌱 I’m currently learning Ethical Hacking, Metasploit, and Linux Administration.
+- 👯 I’m looking to collaborate on Cyber Security projects and CTF challenges.
+- 💬 Ask me about Networking, CCNA, or Basic Linux.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com)
 
-**mdzihadzidan-cloud/mdzihadzidan-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack & Hacking Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Core Technologies:**
+<p align="left">
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
+
+**Cybersecurity Tools:**
+<p align="left">
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+(https://github.com/mdzihadzidan-cloud)
+
 
