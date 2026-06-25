@@ -25,13 +25,21 @@
 </p>
 
 
-<h3>🛡️ Cybersecurity &amp; Hacking Tools:</h3>
+<h3>🛡️ Cybersecurity & Penetration Testing Tools:</h3>
+
 <p align="left">
-  <img src="https://shields.io" alt="Kali Linux" />
-  <img src="https://shields.io" alt="Metasploit" />
-  <img src="https://shields.io" alt="Nmap" />
-  <img src="https://shields.io" alt="Wireshark" />
-  <img src="https://shields.io" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hydra-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nikto-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCPDump-006400?style=for-the-badge" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
