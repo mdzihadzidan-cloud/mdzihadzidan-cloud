@@ -25,9 +25,12 @@
 </p>
 
 
-<h3>🛡️ Cybersecurity & Penetration Testing Tools:</h3>
+
+
+<h3>🛡️ Cybersecurity & Penetration Testing / SOC Tools:</h3>
 
 <p align="left">
+  <!-- Red Team / Pentesting -->
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -40,6 +43,20 @@
   <img src="https://img.shields.io/badge/Aircrack--ng-00AEEF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TCPDump-006400?style=for-the-badge" />
+
+  <!-- Blue Team / SOC -->
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-026EF7?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sysmon-008272?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Velociraptor-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sigma_Rules-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YARA-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zeek-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TheHive-F7B500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MISP-6A1B9A?style=for-the-badge" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
