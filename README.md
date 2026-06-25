@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm MD ZIHAD</h1>
-<h3 align="center">Cyber Security Enthusiast & Junior Penetration Tester & VAPT from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzihadzidan-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="mdzihadzidan-cloud" /> </p>
+<h3 align="center">
+Cyber Security Enthusiast & Junior Penetration Tester & VAPT from Bangladesh
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzihadzidan-cloud" alt="mdzihadzidan-cloud" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdzihadzidan-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdzihadzidan-cloud&theme=onedark&row=1&column=6" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Cyber Security**
 
